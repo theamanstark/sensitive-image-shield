@@ -1,2 +1,3 @@
-# sensitive-image-shield
-Image protection widget that shields viewers from potentially disturbing content until they choose to view it.
+# Sensitive Image Shield
+
+![ImgShield Demo](https://github.com/theamanstark/sensitive-image-shield/raw/main/.gitassets/demo.gif)
