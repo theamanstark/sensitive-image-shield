@@ -6,7 +6,7 @@
 
 <br>
 
-# Documentation
+<h1 align="center">Documentation</h1>
 
 1. Just add the CSS using any one of the following methods below above the `</head>`
 
@@ -44,3 +44,5 @@
    </div>
    </div>
    ```
+
+**Credits**: Sensitive Image Shield created by [Aman Singh](https://www.amanstark.com).
