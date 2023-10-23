@@ -18,9 +18,14 @@
     </style>
     ```
 
-    (ii) Using external CSS Style cdn link 👇
+    (ii) Using an external CSS style cdn link 👇
 
     ```html
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/theamanstark/sensitive-image-shield@main/assets/style.min.css" />
-    ```    
-    
+    ```
+
+2. Now, put the following javascript above: `</body>`, either at the root of your site or in the post where the widget will be used.
+
+   ```html
+   <script src='https://cdn.jsdelivr.net/gh/theamanstark/sensitive-image-shield@main/assets/script.min.js'></script>
+   ```
